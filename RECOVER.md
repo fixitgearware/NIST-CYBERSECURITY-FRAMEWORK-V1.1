@@ -5,7 +5,7 @@
 
 <h2>Recover</h2> function focuses on the need to put inplace and execute essential activities that maintain resilience, and restore business after a disaster (cybersecurity incident) has occurred. 
 
-Below is listed the various Sub-categories of the <strong>Recover</strong> function, and how they can be implemented in planning the organization's risk assesment, to recover from a cybersecurity incident.
+Below is listed the various Sub-categories of the <strong>"Recover"</strong> function, and how they can be implemented in planning the organization's risk assesment, to recover from a cybersecurity incident.
 
 
 
