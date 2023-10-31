@@ -6,7 +6,7 @@
 
 <h2>Protect</h2> function helps you in developing and implementing relevant security measures to ensure the delivery and functionality of your organization's critical services (Infrastructures).
 
-Below is listed the various Sub-categories of the <strong>Protect</strong> and how you can plan your organization's risk assesment in safeguarding its critical infrastructure and sensitive information. 
+Below is listed the various Sub-categories of the <strong>"Protect"</strong> and how you can plan your organization's risk assesment in safeguarding its critical infrastructure and sensitive information. 
 
 
 
