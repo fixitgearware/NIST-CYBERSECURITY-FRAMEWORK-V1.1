@@ -3,9 +3,9 @@
 
 <br>
 
-The <h2>Identify</h2> function helps you in comprehending an organization's cybersecurity risk management for its assets, which include personnel, systems, data, and functions.
+<h2>Identify</h2> function helps you in comprehending an organization's cybersecurity risk management for its assets, which include personnel, systems, data, and functions.
 
-Below is listed the various Sub-categories of the <h2>Identify</h2> in planning your organization's risk assessment for its critical infrastructures. 
+Below is listed the various Sub-categories of the <strong>Identify</strong> in planning your organization's risk assessment for its critical infrastructures. 
 
 
 <br>
