@@ -5,7 +5,7 @@
 
 <h2>Respond</h2> function guides the active steps needed to be taken  when a cybersecurity incident is detected.
 
-Below is listed the various Sub-categories of the <strong>Respond</strong> function, and how they can be implemented in planning the organization's risk assesment, to counter a cybersecurity incident.
+Below is listed the various Sub-categories of the <strong>"Respond"</strong> function, and how they can be implemented in planning the organization's risk assesment, to counter a cybersecurity incident.
 
 
 <br>
