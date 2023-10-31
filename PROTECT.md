@@ -71,3 +71,25 @@ Below is listed the various Sub-categories of the <strong>"Protect"</strong> and
  <br> 
 </td>
 </tr>
+
+
+<td><strong>Maintenace</strong></td><td><strong>PR.MA</strong></td><td><strong>Maintaining and Reparing (Troubleshooting):</strong><br>   The maintenace and repairing (troubleshooting) of industrial control, and information system components are consistently performed, and adheres to policies and procedures.  
+</td><td><strong>PR.MA-1, PR.MA-2</strong></td><td><strong>PR.MA-1:</strong> Maintaining and repairing organizations assets should be periodically conducted and logged, with approved and controlled tools.  <br><strong>PR.MA-2:</strong> Maintaining organizations assets remotely should be approved, logged, and conduct in such a way, that it prevents unauthorized access.                                  
+</td>
+</tr>
+
+
+
+
+
+
+
+<td><strong>Access Control</strong></td><td><strong>PR.AC</strong></td><td><strong>The List of what to Protect includes:</strong><br>  Organizations Assets and infrastrutures (facilities) associated with it are limited to only Authorized users, processes, hardware components and devices, and also to authorize activities, and transactions.  
+</td><td><strong>PR.AC-1, PR.AC-2, PR.AC-3, PR.AC-4, PR.AC-5 </strong></td><td><strong>PR.AC-1:</strong>The protection should extend towards management of Identities and credentials for authorized personnels (users), and hardware components (devices). <br><strong>PR.AC-2:</strong> Physical access to assets such as production environment, IoT components and critical infrastrutures such as servers and every other sensitive Devices or even organizations physical building are protected.                                  <br><strong>PR-AC-3:</strong>Remote access (such as SSH, DMZ, FTPS and more) and communications are properly managed .                                                                                       <br><strong>PR.AC-4:</strong>Managing Access Permissions, ensure that the prinicple of least privilege are incorporated, and duty segementation (what each persons can perform should be different).     <br>                                                                                              <strong>PR.AC-5:</strong>Protection to ensure the integrity of the network. Network segregation and communication should be in the plan to establish protection. Ensuring Routers, Switch, VPN are properly configured. Certain part of the network, that communicates with the outside world, should have a DMZ. <br>
+</td>
+</tr>
+
+
+
+
+
