@@ -40,7 +40,7 @@ Below is listed the various Sub-categories of the <strong>"Respond"</strong> fun
 
 
 
- <td><strong>Analysis</strong></td><td><strong>RS.AN</strong></td><td><strong>Response Analysis and Recovery: :</strong><br> Conducting Analysis to ensure adequate response and recovery activities are supported.
+ <td><strong>Analysis</strong></td><td><strong>RS.AN</strong></td><td><strong>Response Analysis and Recovery:</strong><br> Conducting Analysis to ensure adequate response and recovery activities are supported.
 </td><td><strong>RS.AN-1, RS.AN-2, RS.AN-3, RS.AN-4 </strong></td><td><strong>RS.AN-1:</strong> All Notifications from detection systems  (IDS, IPS, Honeypot e.t.c) are investigated.        <br><strong> RS.AN-2:</strong> Incident Level of IMPACT, should be properly understood.                                  <br><strong> RS.AN-3:</strong>  Forensics (Incident first responder, Investigations, e.t.c,) are conducted.                                                                                        <br><strong>RS.AN-4: </strong>  Categorizing of incidence should be consistent and Align with response plans.    
    </td>
     </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
