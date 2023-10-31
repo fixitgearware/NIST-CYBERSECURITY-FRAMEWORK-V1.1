@@ -5,7 +5,7 @@
 
 <h2>Detect</h2> function implements suitable security measures and principles to spot any cybersecurity breaches or incidents.
 
-Below is listed the various Sub-categories of the <strong>Detect</strong> function, and how you can implement security measures corresponding to your organization's risk assesment planning.
+Below is listed the various Sub-categories of the <strong>"Detect"</strong> function, and how you can implement security measures corresponding to your organization's risk assesment planning.
 
 
 
