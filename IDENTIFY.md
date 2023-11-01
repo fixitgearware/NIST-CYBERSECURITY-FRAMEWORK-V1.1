@@ -1,4 +1,26 @@
 # NIST-CYBERSECURITY-FRAMEWORK-V1.1
+
+<h3>DISCLAIMER:</h3>
+
+The <strong>"MIT-LICENCE"</strong> guides this repository. You have the permission to use, copy, modify, merge, publish, distribute, sublicense, or reupload this content to any GitHub Repository. However, we kindly ask that you give credit to "Fixitgearware Security". We have a strong belief that you will abide by the cybersecurity rules, ethics, and conducts. 
+
+Copyright (c) 2023 FixitgearwareSecurity.
+
+<br>
+
+<h4>For any complaints or Error Email:</h4>
+<br>
+
+<strong>report@fixitgearware.com</strong>
+
+<br>
+
+<a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/LICENSE">Read the MIT-LICENCE</a>
+
+
+
+
+
 <h2>Reference Guide in Planning Organizations Risk Management.</h2>
 
 <br>
@@ -31,7 +53,7 @@ Below is listed the various Sub-categories of the <strong>"Identify"</strong> in
 </td><td><strong>ID.GV-1, ID.GV-2, ID.GV-3, ID.GV-4 </strong></td><td><strong>ID.GV-1:</strong> The organization information security policy is established.       <br><strong>ID.GV-2:</strong> The roles of the organization Information security, and responsibilities are properly coordinated, and must align with internal roles, and external partners.                                  <br><strong> ID.GV-3:</strong> A clear understanding and management of the Legal and regulatory requirements, regarding cybersecurity, including privacy, and civil liberties obligations are communicated,understood and managed.                                                                                        <br><strong>ID.GV-4: </strong>  On how the Government and risk management processes address cybersecurity risk.      
    </td>
     </tr>
-<td><strong>Risk Assessment</strong></td><td><strong>ID.RA</strong></td><td><strong>Identify and Assessing Risk:</strong><br> Ensuring that the organization has a clear understanding of the Cybersecurity risk, and how it affects their operations (including reputation, mision, and functions), individuals, and the organizations assets at large.
+<td><strong>Risk Assessment</strong></td><td><strong>ID.RA</strong></td><td><strong>Identify and Assessing Risk:</strong><br> Ensuring that the organization has a clear understanding of the Cybersecurity risk, and how it affects their operations (including reputation, mission, and functions), individuals, and the organizations assets at large.
 </td><td><strong>ID.RA-1, ID.RA-2, ID.RA-3, ID.RA-4, ID.RA-5, ID.RA-6</strong></td><td><strong>ID.RA-1:</strong>Identifying and documentation of all vulnerabilities in the organizations Assets.      <br><strong>ID.RA-2:</strong> Threat and vulnerabilities information discovered in online forums, social networking apps, and other relevant sources.                                 <br><strong>ID.RA-3:</strong> Both Internal and External threats are Identified and documented.                                                                                        <br><strong>ID.RA-4:</strong>
                                                                                                                                                                                                       All potential impacts and likelihood on the organizations businesses are identified and documented.   <br>                                                                                              <strong>ID.RA-5:</strong>Threats, vulnerabilities, impacts, and likelihood are used to estimate the risk.<br>
     <strong>ID.RA-6:</strong> Identifying and Prioritizing Risk response.
