@@ -1,26 +1,5 @@
 # NIST-CYBERSECURITY-FRAMEWORK-V1.1
 
-<h3>DISCLAIMER:</h3>
-
-The <strong>"MIT-LICENCE"</strong> guides this repository. You have the permission to use, copy, modify, merge, publish, distribute, sublicense, or reupload this content to any GitHub Repository. However, we kindly ask that you give credit to "Fixitgearware Security". We have a strong belief that you will abide by the cybersecurity rules, ethics, and conducts. 
-
-Copyright (c) 2023 FixitgearwareSecurity.
-
-<br>
-
-<h4>For any complaints or Error Email:</h4>
-<br>
-
-<strong>report@fixitgearware.com</strong>
-
-<br>
-
-<a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/LICENSE">Read the MIT-LICENCE</a>
-
-
-
-
-
 <h2>Reference Guide in Planning Organizations Risk Management.</h2>
 
 <br>
